@@ -8,7 +8,9 @@ Software engineer from Paraná, Brazil. I build products — not projects. I pre
 
 But engineering is just one layer. What actually drives me is the raw curiosity — the kind that doesn't respect disciplinary boundaries. On any given Sunday I might be simulating quantum tunneling in OpenGL, memorizing Sanskrit verses with a memory palace, or building a cyberpunk TUI agent just to see if a while loop is all you need.
 
-I study Advaita Vedanta seriously. I've read Nisargadatta, Ramana Maharshi, Vivekananda, the Mandukya Karika. I practice japa, observe the mind in operation, and connect phenomenological insights with neuroscience. The question that defines me is: *why does anything exist at all, and how does it organize itself to the point of looking back and asking that question?*
+I study Advaita Vedanta seriously. I've read Nisargadatta, Ramana Maharshi, Vivekananda, the Mandukya Karika. I practice japa, observe the mind in operation, and connect phenomenological insights with neuroscience.
+
+The question that defines me is: *why does anything exist at all, and how does it organize itself to the point of looking back and asking that question?*
 
 I don't use social media. I make things because I like making things.
 
@@ -45,7 +47,7 @@ Systems      Docker · Arch Linux · Hyprland · ESP32 · Arduino
 
 ### Interests beyond code
 
-Advaita Vedanta · Sanskrit · Memory palaces · Quantum mechanics · General relativity · Evangelion · Hard sci-fi · Música baiana · Tropicalismo · Geopolitics · Electronics · Contos de fada
+Advaita Vedanta · Sanskrit · Memory palaces · Quantum mechanics · General relativity · Evangelion · Hard sci-fi · Brazilian music (tropicália, samba de roda, blocos afro) · Geopolitics · Electronics · Contos de fada
 
 ---
 
