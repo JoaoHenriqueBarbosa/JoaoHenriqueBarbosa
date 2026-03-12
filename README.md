@@ -31,7 +31,7 @@ I don't use social media. I make things because I like making things.
 </td>
 <td width="50%">
 
-**[FinOpenPOS](https://github.com/JoaoHenriqueBarbosa/FinOpenPOS)** — Open-source Point of Sale system with full Brazilian fiscal compliance (NF-e/NFC-e). Multi-tenant, offline-first with PGlite, real-time dashboard, i18n. The TypeScript fiscal engine that preceded fiscal-rs — battle-tested in production.
+**[FinOpenPOS](https://github.com/JoaoHenriqueBarbosa/FinOpenPOS)** — Open-source Point of Sale system with full Brazilian fiscal compliance (NF-e/NFC-e). Multi-tenant, zero-config dev setup with PGlite (in-process Postgres), real-time dashboard, i18n. The TypeScript fiscal engine that preceded fiscal-rs.
 
 [![Stars](https://img.shields.io/github/stars/JoaoHenriqueBarbosa/FinOpenPOS)](https://github.com/JoaoHenriqueBarbosa/FinOpenPOS)
 
